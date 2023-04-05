@@ -1,4 +1,5 @@
-package com.example.demo.dtos;
+package com.example.demo.enums;
 
-public class RoleName {
+public enum RoleName {
+    ADMIN, USER;
 }
